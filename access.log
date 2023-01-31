@@ -1,0 +1,2 @@
+::1 - - [30/Jan/2023:18:43:20 +0000] "GET /api/v1/products HTTP/1.1" 200 49 "-" "PostmanRuntime/7.28.4"
+::1 - - [30/Jan/2023:18:43:57 +0000] "POST /api/v1/products HTTP/1.1" 200 45 "-" "PostmanRuntime/7.28.4"
